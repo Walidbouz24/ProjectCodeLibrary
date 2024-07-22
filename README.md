@@ -1,4 +1,4 @@
-# ProjectLibraries
+# ProjectLibraries For mbed
 
 A collection of libraries developed during previous projects. Recently created to update and organize my code, this repository serves as a reusable codebase for various functionalities such as display handling, buzzer songs, and differential drive movement types.
 
