@@ -21,8 +21,6 @@ This repository contains:
 
 - **Code Snippets**: Small pieces of code that perform specific tasks or demonstrate particular concepts.
 - **Libraries**: Collections of functions and classes that provide reusable functionalities.
-- **Utilities**: Tools and scripts that assist with various development tasks.
-- **Project Templates**: Starter templates for different types of projects.
 - **Documentation**: Instructions and explanations for using the code and libraries included in the repository.
 
 ## Programming Languages
