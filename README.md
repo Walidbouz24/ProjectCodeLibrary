@@ -1,17 +1,17 @@
-# ProjectCodeLibrary
+# ProjectLibraries
 
-A collection of general code snippets, libraries, and utilities developed during previous projects. Recently created to update and organize my created codes, this repository serves as a reusable codebase for common functionalities and project templates.
+A collection of libraries developed during previous projects. Recently created to update and organize my code, this repository serves as a reusable codebase for various functionalities such as display handling, buzzer songs, and differential drive movement types.
 
 ## Overview
 
-Welcome to the ProjectCodeLibrary repository! This repository is a comprehensive collection of code snippets, libraries, and utilities developed during my previous projects. It includes code written in various programming languages and serves different purposes, from simple scripts to complex algorithms and frameworks.
+Welcome to the ProjectLibraries repository! This repository is a comprehensive collection of libraries developed during my previous projects. It includes libraries written in various programming languages and serves different purposes, from handling display outputs to generating buzzer songs and implementing differential drive movements.
 
 ## Purpose
 
 The purpose of this repository is to:
 
-- Consolidate all my past work in one place
-- Organize and structure code for easy access and reuse
+- Consolidate all my past library work in one place
+- Organize and structure libraries for easy access and reuse
 - Provide a reusable codebase for common functionalities and project templates
 - Serve as a reference for best practices and coding standards
 
@@ -19,13 +19,4 @@ The purpose of this repository is to:
 
 This repository contains:
 
-- **Code Snippets**: Small pieces of code that perform specific tasks or demonstrate particular concepts.
-- **Libraries**: Collections of functions and classes that provide reusable functionalities.
-- **Documentation**: Instructions and explanations for using the code and libraries included in the repository.
-
-## Programming Languages
-
-The code in this repository is written in various programming languages, including but not limited to:
-
-- VHDL
-- C/C++
+- **Differential Drive Movement Libraries**: Algorithms and functions for implementing differential drive movements.
